@@ -1,4 +1,4 @@
-# 🔥 Runefall Arena
+#  Runefall Arena
 
 A fantasy card-duel game — original cards, an AI opponent, smooth animations,
 and a leaderboard that can optionally mirror itself to **Shelby Protocol**'s
